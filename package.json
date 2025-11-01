@@ -2,11 +2,7 @@
   "name": "node-wifi-scanner-cli",
   "description": "a cli for node-wifi-scanner",
   "version": "0.1.0",
-  "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
-  },
+  "author": "Autumn Z",
   "license": "WTFPL",
   "main": "index.js",
   "bin": "./index.js",
@@ -14,12 +10,12 @@
     "postinstall": "echo 'DEPRECATED. Please use node-wifi-scanner directly instead.'",
     "start": "node index"
   },
-  "homepage": "https://github.com/zacanger/node-wifi-scanner-cli#readme",
+  "homepage": "https://github.com/zautumnz/node-wifi-scanner-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/node-wifi-scanner-cli.git"
+    "url": "https://github.com/zautumnz/node-wifi-scanner-cli.git"
   },
-  "bugs": "https://github.com/zacanger/node-wifi-scanner-cli/issues",
+  "bugs": "https://github.com/zautumnz/node-wifi-scanner-cli/issues",
   "keywords": [
     "airport",
     "cli",
